@@ -50,7 +50,7 @@ spec:
     server: https://kubernetes.default.svc
   - namespace: robot-shop
     server: https://kubernetes.default.svc
-  - namespace: prod-b2bi
+  - namespace: b2bi-prod
     server: https://kubernetes.default.svc
   - namespace: db2
     server: https://kubernetes.default.svc
