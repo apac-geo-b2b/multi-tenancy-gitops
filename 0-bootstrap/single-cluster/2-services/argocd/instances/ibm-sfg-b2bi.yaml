@@ -23,7 +23,7 @@ spec:
     jsonPointers:
     - /spec/replicas
   destination:
-    namespace: tools
+    namespace: b2bi-prod
     server: 'https://kubernetes.default.svc'
   project: services
   source:
